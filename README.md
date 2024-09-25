@@ -1,12 +1,12 @@
-# HR Analysis Dashboard Using Power BI and Power Query
+# Employee Analytics
 
-This project focuses on developing an HR attendance dashboard using Power BI and Power Query, providing insights into employee attendance patterns, performance, and areas for improvement. By utilizing data cleaning, transformation, and data visualization techniques, the dashboard helps HR teams make informed decisions.
+This project focuses on developing an Employee Analytics dashboard using Power BI and Power Query, providing insights into employee attendance patterns, performance, and areas for improvement. By utilizing data cleaning, transformation, and data visualization techniques, the dashboard helps HR teams make informed decisions.
 
 ---
 
 ## **Objective:**
 
-The goal of this project is to build an interactive HR dashboard that analyzes employee attendance data, provides insights into key performance indicators (KPIs), and identifies trends and areas for improvement using Power BI. The dashboard empowers HR teams to track attendance patterns effectively.
+The goal of this project is to build an interactive Employee Analytics dashboard that analyzes employee attendance data, provides insights into key performance indicators (KPIs), and identifies trends and areas for improvement using Power BI. The dashboard empowers HR teams to track attendance patterns effectively.
 
 ---
 
@@ -44,8 +44,9 @@ The goal of this project is to build an interactive HR dashboard that analyzes e
 ## **Result:**
 
 - Successfully created an interactive HR dashboard that provides a comprehensive view of employee attendance data.
+- This Dashboard can save 3 to 4 hours of work for HR team daily
 - The dashboard allows HR teams to quickly analyze attendance trends, detect absenteeism issues, and make data-driven decisions to improve workforce management.
 - The use of DAX queries and Power Query transformations optimized the dashboard's performance and ensured accurate KPI reporting.
 - The visualizations, including cards, pie charts, and line graphs, enhanced the user experience and provided valuable insights into attendance patterns over time.
 
-This project demonstrates the power of data transformation, modeling, and visualization in HR analytics, enabling actionable insights and effective decision-making.
+This project demonstrates the power of data transformation, modeling, and visualization in Employee Analytics, enabling actionable insights and effective decision-making.
