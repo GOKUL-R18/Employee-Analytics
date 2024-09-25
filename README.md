@@ -2,6 +2,8 @@
 
 This project focuses on developing an Employee Analytics dashboard using Power BI and Power Query, providing insights into employee attendance patterns, performance, and areas for improvement. By utilizing data cleaning, transformation, and data visualization techniques, the dashboard helps HR teams make informed decisions.
 
+Live Interactive Dashboard: [link](https://app.powerbi.com/view?r=eyJrIjoiZjdmYzE1NzgtNjVkNS00ZDYyLTg2YzEtOTQ4ZDdkZGMyNjU2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 ---
 
 ## **Objective:**
